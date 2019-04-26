@@ -8,6 +8,14 @@ Here are 100 questions to help prepare you for your Game Theory midterm. You can
 
 Clearly state the players, strategy sets and interpretations of the utilities.
 
+2. Represent the following game in normal form and then analyze it. 
+
+> Assume two neighbouring countries have at their disposal very destructive armies. If both countries attack each other the countries’ civilian population will suffer 10 thousand casualties. If one country attacks whilst the other remains peaceful, the peaceful country will lose 15 thousand casualties but would also retaliate causing the offensive country 13 thousand casualties. If both countries remain peaceful then there are no casualties.
+
+3. Attempt to predict rational behaviour using iterated elimination of dominated strategies for the following:
+
+| 2, 1 | 1, 1 |
+| 1, 1 | 1, 3 |
 
 <h3 id="resource">Resources</h3>
 
