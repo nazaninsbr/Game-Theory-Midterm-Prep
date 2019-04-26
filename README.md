@@ -1,6 +1,6 @@
 # Game-Theory-Midterm-Prep
 
-Here are 100 questions to help prepare you for your Game Theory midterm. You can see the `solutions` in the `solutions.pdf` file. You can see the sources in the <a href="#resource">resources</a> section.  
+Here are 50 questions to help prepare you for your Game Theory midterm. You can see the `solutions` in the `solutions.pdf` file. You can see the sources in the <a href="#resource">resources</a> section.  
 
 1. Represent the following game in normal form:
 
@@ -151,6 +151,21 @@ Clearly state the players, strategy sets and interpretations of the utilities.
 | ------------- |:-------------:|:-----:|
 | 2, 2      | 5, 5         | 3, 6 |
 | 1, 4     | 6, 3          | 0, 0 |
+
+29. Compute the Nash equilibrium (if they exist) in pure strategies for the following game. 
+
+| 9, 9     |  2, 2         | 4, 1 |
+| ------------- |:-------------:|:-----:|
+| 2, 2      | 5, 5         | 3, 6 |
+| 1, 4     | 6, 3          | 0, 0 |
+
+30. Compute the Nash equilibrium (if they exist) in pure strategies for the following game. 
+
+| 1, -1     |  -1, -1           | -1, 1 |
+| ------------- |:-------------:|:-----:|
+| -1, -1     | -1, 1         | 1, -1 |
+| 0, 0     | 0, 0          | 0, 0 |
+
 
 <h3 id="resource">Resources</h3>
 
