@@ -1,6 +1,6 @@
 # Game-Theory-Midterm-Prep
 
-Here are 45 questions to help prepare you for your Game Theory midterm. You can see the `solutions` in the `solutions.pdf` file. You can see the resources I used in the <a href="#resource">resources</a> section.  
+Here are 44 questions to help prepare you for your Game Theory midterm. You can see the `solutions` in the `solutions.pdf` file. You can see the resources I used in the <a href="#resource">resources</a> section.  
 
 1. Represent the following game in normal form:
 
@@ -246,6 +246,14 @@ rains with probability 1 - p
 
 42. Cournot duopoly: There are two firms operating in a limited market. Market production is: P(Q)=a-bQ, where Q=q1+q2 for two firms. Both companies will receive profits derived from a simultaneous decision made by both on how much to produce, and also based on their cost functions: TCi=C-qi. What is each players best response and how is it different from the monopoly best response?
 
+43. Two players bargain over how to split $10. Each player i ∈ {1, 2} chooses a number si ∈ [0, 10] (which does not need to be an integer). Each player’s payoff is the money he receives. We consider two allocation rules. In each case, if s1 + s2 ≤ 10, each player gets his chosen amount si and the rest is destroyed.
+* In the first case, if s1 + s2 > 10, both players get zero. What are the (pure strategy) Nash equilibria?
+* In the second case, if s1 + s2 > 10 and s1 ̸= s2 , the player who chose the smallest amount receives this amount and the other gets the rest. If s1 + s2 > 10 and s1 = s2, they both get $5. What are the (pure strategy) Nash equilibria?
+* Now suppose that s1 and s2 must be integers. Does this change the (pure strategy) Nash equilibria in either case?
+
+44. <img src="./img/3.png">
+
+
 <h3 id="resource">Resources</h3>
 
 *  my notes
@@ -253,3 +261,4 @@ rains with probability 1 - p
 * https://vknight.org/Year_3_game_theory_course/Homework/Homework_2/
 * https://vknight.org/Year_3_game_theory_course/Exam/2013-2014.pdf
 * https://oyc.yale.edu/economics/econ-159 
+* http://lig-membres.imag.fr/loiseapa/courses/GameTheory/slides/ExerciseSheet2.pdf
