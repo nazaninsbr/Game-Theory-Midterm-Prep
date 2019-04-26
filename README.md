@@ -251,7 +251,9 @@ rains with probability 1 - p
 * In the second case, if s1 + s2 > 10 and s1 ̸= s2 , the player who chose the smallest amount receives this amount and the other gets the rest. If s1 + s2 > 10 and s1 = s2, they both get $5. What are the (pure strategy) Nash equilibria?
 * Now suppose that s1 and s2 must be integers. Does this change the (pure strategy) Nash equilibria in either case?
 
-44. <img src="./img/3.png">
+44. 
+
+<img src="./img/3.png">
 
 
 <h3 id="resource">Resources</h3>
