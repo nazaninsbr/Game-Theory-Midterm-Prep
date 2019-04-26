@@ -166,6 +166,43 @@ Clearly state the players, strategy sets and interpretations of the utilities.
 | -1, -1     | -1, 1         | 1, -1 |
 | 0, 0     | 0, 0          | 0, 0 |
 
+31. Compute the Nash equilibrium (if they exist) in pure strategies for the following game. 
+
+| 1, -1     |  -1, -1           | -1, 1 |
+| ------------- |:-------------:|:-----:|
+| -1, -1     | -1, 1         | 1, -1 |
+| -1, -1     | 1, -1          | -1, 1 |
+
+32. There are two candidates running for president. Each candidate must position themselves along the ideological left-right axis in order to appeal to voters. Suppose there are ten possible ideological locations along this axis. Suppose further that voters are evenly distributed along this axis, i.e. approx. 10% of the pool of voters are located at each of the ten ideological positions. Which position should they pick?
+
+33. Compute the Nash equilibrium (if they exist) in pure strategies for the following game. 
+
+| 2, 1       |  0, 0           |
+| ------------- |:-------------:|
+| 0, 0     | 1, 2 |
+
+34. Plot the utilities to player 1. 
+
+| 5, 1       |  0, 2           |
+| ------------- |:-------------:|
+| 1, 3     | 4, 1 |
+| 4, 2     | 2, 3 |
+
+35. Plot the utilities to player 1. 
+
+| 4, -4       |  9, -9           |
+| ------------- |:-------------:|
+| 6, -6     | 6, -6 |
+| 9, -9     | 4, -4 |
+
+36. Compute the Nash equilibrium (if they exist) in pure strategies for the following game. 
+
+| 1, 1       |  0, 0           |
+| ------------- |:-------------:|
+| 0, 0     | 0, 0 |
+
+
+
 
 <h3 id="resource">Resources</h3>
 
@@ -173,3 +210,4 @@ Clearly state the players, strategy sets and interpretations of the utilities.
 * https://vknight.org/Year_3_game_theory_course/Homework/Homework_1/
 * https://vknight.org/Year_3_game_theory_course/Homework/Homework_2/
 * https://vknight.org/Year_3_game_theory_course/Exam/2013-2014.pdf
+* https://oyc.yale.edu/economics/econ-159 
