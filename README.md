@@ -14,6 +14,7 @@ Clearly state the players, strategy sets and interpretations of the utilities.
 
 3. Attempt to predict rational behaviour using iterated elimination of dominated strategies for the following:
 
+|------|------|
 | 2, 1 | 1, 1 |
 | 1, 1 | 1, 3 |
 
