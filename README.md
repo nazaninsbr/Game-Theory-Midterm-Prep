@@ -98,7 +98,7 @@ Clearly state the players, strategy sets and interpretations of the utilities.
 19. Analyze the following game. 
 
 | 5, -1        |  11, 3           | 0, 0 |
-| ------------- |:-------------:|
+| ------------- |:-------------:|:-------------:|
 | 6, 4     | 0, 2 | 2, 0 |
 
 20. Analyze the following game. 
