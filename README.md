@@ -248,7 +248,7 @@ rains with probability 1 - p
 
 43. Two players bargain over how to split $10. Each player i ∈ {1, 2} chooses a number si ∈ [0, 10] (which does not need to be an integer). Each player’s payoff is the money he receives. We consider two allocation rules. In each case, if s1 + s2 ≤ 10, each player gets his chosen amount si and the rest is destroyed.
 * In the first case, if s1 + s2 > 10, both players get zero. What are the (pure strategy) Nash equilibria?
-* In the second case, if s1 + s2 > 10 and s1 ̸= s2 , the player who chose the smallest amount receives this amount and the other gets the rest. If s1 + s2 > 10 and s1 = s2, they both get $5. What are the (pure strategy) Nash equilibria?
+* In the second case, if s1 + s2 > 10 and s1 != s2 , the player who chose the smallest amount receives this amount and the other gets the rest. If s1 + s2 > 10 and s1 = s2, they both get $5. What are the (pure strategy) Nash equilibria?
 * Now suppose that s1 and s2 must be integers. Does this change the (pure strategy) Nash equilibria in either case?
 
 44. 
