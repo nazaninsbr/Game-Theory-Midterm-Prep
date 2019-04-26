@@ -1,6 +1,6 @@
 # Game-Theory-Midterm-Prep
 
-Here are 45 questions to help prepare you for your Game Theory midterm. You can see the `solutions` in the `solutions.pdf` file. You can see the sources in the <a href="#resource">resources</a> section.  
+Here are 45 questions to help prepare you for your Game Theory midterm. You can see the `solutions` in the `solutions.pdf` file. You can see the resources I used in the <a href="#resource">resources</a> section.  
 
 1. Represent the following game in normal form:
 
