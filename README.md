@@ -61,10 +61,37 @@ Clearly state the players, strategy sets and interpretations of the utilities.
 
 <img src="./img/1.png">
 
+11. For what values of α does a Nash equilibrium exist in pure strategies for the following game
+
+<img src="./img/2.png">
+
+12. Attempt to predict rational behaviour using iterated elimination of dominated strategies for the following:
+
+| 1, 1       |  1, 1           |
+| ------------- |:-------------:|
+| 0, 2     | 2, 0 |
+
+13. Analyze the following game. 
+
+| 3, 2        |  6, 5           |
+| ------------- |:-------------:|
+| 1, 4     | 2, 3 |
+
+14. Define Strictly dominated strategy.
+
+15. Analyze the following game. 
+
+| 3, 2        |  0, 0           |
+| ------------- |:-------------:|
+| 1, 1     | 2, 3 |
+
+16. Define Weakly dominated strategy.
+
+17. Define Normal form game.
 
 <h3 id="resource">Resources</h3>
 
 *  my notes
 * https://vknight.org/Year_3_game_theory_course/Homework/Homework_1/
 * https://vknight.org/Year_3_game_theory_course/Homework/Homework_2/
-*
+* https://vknight.org/Year_3_game_theory_course/Exam/2013-2014.pdf
