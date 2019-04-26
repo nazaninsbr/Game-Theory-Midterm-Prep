@@ -1,6 +1,6 @@
 # Game-Theory-Midterm-Prep
 
-Here are 50 questions to help prepare you for your Game Theory midterm. You can see the `solutions` in the `solutions.pdf` file. You can see the sources in the <a href="#resource">resources</a> section.  
+Here are 45 questions to help prepare you for your Game Theory midterm. You can see the `solutions` in the `solutions.pdf` file. You can see the sources in the <a href="#resource">resources</a> section.  
 
 1. Represent the following game in normal form:
 
@@ -201,8 +201,47 @@ Clearly state the players, strategy sets and interpretations of the utilities.
 | ------------- |:-------------:|
 | 0, 0     | 0, 0 |
 
+37. Investment game: Suppose everyone in your town is given a chance to invest 10$ or not. If more than 90% of the town invests, each person will get 15$ in return but if less than 90% invest, they lose their money. What are the pure nash equilibriums of this game?
 
+38. Find the mized nash equilibrium of this game.
 
+| 50, 50      |  80, 20           |
+| ------------- |:-------------:|
+| 90, 10     | 20, 80 |
+
+39. Compute the Nash equilibrium (if they exist) in pure strategies for the following game. 
+
+| 12, 2      |  3, 9           |
+| ------------- |:-------------:|
+| 5, 8     | 4, 2 |
+
+40. Attempt to predict rational behaviour in this game.
+
+player 3 - D
+
+| 5, 5, 5     |  3, 6, 3           |
+| ------------- |:-------------:|
+| 6, 3, 3     | 4, 4, 1 |
+
+player 3 - C
+
+| 3, 3, 6      |  1, 4, 4          |
+| ------------- |:-------------:|
+| 4, 1, 4     | 2, 2, 2 |
+
+41. Compute the Nash equilibrium (if they exist) in pure strategies for the following game. 
+
+no rain with probability p
+
+| -1, -1     |  -1, 0           |
+| ------------- |:-------------:|
+| 0, -1     | 0, 0 |
+
+rains with probability 1 - p
+
+| -2, -2     |  -2, 0           |
+| ------------- |:-------------:|
+| 0, -2     | -10, -10 |
 
 <h3 id="resource">Resources</h3>
 
