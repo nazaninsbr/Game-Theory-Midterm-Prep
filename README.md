@@ -18,9 +18,20 @@ Clearly state the players, strategy sets and interpretations of the utilities.
 | ------------- |:-------------:|
 | 1, 1     | 1, 3 |
 
-| ---- |:-----:|
-| 2, 1 | 1, 1 |
-| 1, 1 | 1, 3 |
+4. Attempt to predict rational behaviour using iterated elimination of dominated strategies for the following:
+
+| 2, 11       | 1, 9           | 3, 10 | 17, 22 |
+| ------------- |:-------------:|:-----:|:-----:|
+| 27, 0      | 3, 1           | 1, 1 | 1, 0 |
+| 4, 2       | 6, 10           | 7, 12 | 18, 0 |
+
+5. Attempt to predict rational behaviour using iterated elimination of dominated strategies for the following:
+
+| 3, -3        |  -1, 1           |
+| ------------- |:-------------:|
+| 2, 1     | 7, -6 |
+
+
 
 <h3 id="resource">Resources</h3>
 
