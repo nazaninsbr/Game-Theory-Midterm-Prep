@@ -181,14 +181,14 @@ Clearly state the players, strategy sets and interpretations of the utilities.
 | ------------- |:-------------:|
 | 0, 0     | 1, 2 |
 
-34. Plot the utilities to player 1. 
+34. Plot the utilities for player 1. 
 
 | 5, 1       |  0, 2           |
 | ------------- |:-------------:|
 | 1, 3     | 4, 1 |
 | 4, 2     | 2, 3 |
 
-35. Plot the utilities to player 1. 
+35. Plot the utilities for player 1. 
 
 | 4, -4       |  9, -9           |
 | ------------- |:-------------:|
