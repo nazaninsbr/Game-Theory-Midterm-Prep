@@ -243,6 +243,9 @@ rains with probability 1 - p
 | ------------- |:-------------:|
 | 0, -2     | -10, -10 |
 
+
+42. Cournot duopoly: There are two firms operating in a limited market. Market production is: P(Q)=a-bQ, where Q=q1+q2 for two firms. Both companies will receive profits derived from a simultaneous decision made by both on how much to produce, and also based on their cost functions: TCi=C-qi. What is each players best response and how is it different from the monopoly best response?
+
 <h3 id="resource">Resources</h3>
 
 *  my notes
