@@ -120,6 +120,13 @@ Clearly state the players, strategy sets and interpretations of the utilities.
 | ------------- |:-------------:|
 | 0, 2     | 2, 0 |
 
+23. Attempt to predict rational behaviour using iterated elimination of dominated strategies for the following:
+
+| 4, 3       | 5, 1           | 6, 2 |
+| ------------- |:-------------:|:-----:|
+| 2, 1     | 3, 4           | 3, 6 |
+| 3, 0       | 9, 6           | 2, 8 |
+
 <h3 id="resource">Resources</h3>
 
 *  my notes
