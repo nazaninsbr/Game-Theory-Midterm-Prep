@@ -89,6 +89,37 @@ Clearly state the players, strategy sets and interpretations of the utilities.
 
 17. Define Normal form game.
 
+18. Analyze the following game. 
+
+| -1, -1        |  -4, 0           |
+| ------------- |:-------------:|
+| 0, -4     | -3, -3 |
+
+19. Analyze the following game. 
+
+| 5, -1        |  11, 3           | 0, 0 |
+| ------------- |:-------------:|
+| 6, 4     | 0, 2 | 2, 0 |
+
+20. Analyze the following game. 
+
+| -1, -1        |  -4, 0           |
+| ------------- |:-------------:|
+| 0, -4     | -3, -3 |
+| -2, -3     | -5, 1 |
+
+21. Analyze the following game. 
+
+| 1, 1        |  3, 1           |
+| ------------- |:-------------:|
+| 0, 2     | 2, 0 |
+
+22. Analyze the following game. 
+
+| 1, 1        |  2, 1           |
+| ------------- |:-------------:|
+| 0, 2     | 2, 0 |
+
 <h3 id="resource">Resources</h3>
 
 *  my notes
