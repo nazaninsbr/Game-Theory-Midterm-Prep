@@ -31,9 +31,40 @@ Clearly state the players, strategy sets and interpretations of the utilities.
 | ------------- |:-------------:|
 | 2, 1     | 7, -6 |
 
+6. Attempt to predict rational behaviour using any method you know. 
+
+| 3, 2       | 3, 1           | 2, 3 |
+| ------------- |:-------------:|:-----:|
+| 2, 2      | 1, 3           | 3, 2 |
+
+7. Analyze the following game. 
+
+| 7, 3        |  0, 2           |
+| ------------- |:-------------:|
+| 2, 1     | 6, 1 |
+| 4, 0     | 4, 2 |
+
+8. Compute the Nash equilibrium (if they exist) in pure strategies for the following game. 
+
+| 5, 3       | 70, -1           | 4, 2 |
+| ------------- |:-------------:|:-----:|
+| 6, 7      | 71, 2          | 2, 1 |
+
+9. Compute the Nash equilibrium (if they exist) in pure strategies for the following game. 
+
+| 6, 7      |  2, 1           | 4, 6 |
+| ------------- |:-------------:|:-----:|
+| 0, 4      | 3, 8          | 2, 3 |
+| 1, 2      | 1, 5          | 1, 1 |
+
+10. Compute the Nash equilibrium (if they exist) in pure strategies for the following game. 
+
+<img src="./img/1.png">
 
 
 <h3 id="resource">Resources</h3>
 
+*  my notes
 * https://vknight.org/Year_3_game_theory_course/Homework/Homework_1/
-* 
+* https://vknight.org/Year_3_game_theory_course/Homework/Homework_2/
+*
