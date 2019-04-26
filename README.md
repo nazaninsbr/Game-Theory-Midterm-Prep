@@ -127,6 +127,31 @@ Clearly state the players, strategy sets and interpretations of the utilities.
 | 2, 1     | 3, 4           | 3, 6 |
 | 3, 0       | 9, 6           | 2, 8 |
 
+24. Suppose everyone in your town selects a real number between 0 and 100, inclusive (i.e. 0 and 100 are both possible choices, as is any other number between). The winner is the individual (or individuals) who selects the number closest to 2/3 of the average of numbers chosen. What number do you choose? Why?
+
+25. Define Best Response.
+
+26. Analyze the following game. 
+
+| 3, 2        |  0, 0           |
+| ------------- |:-------------:|
+| 1, 1     | 2, 3 |
+
+27. Compute the Nash equilibrium (if they exist) in pure strategies for the following game. 
+
+| 5, 4      |  3, 3          | 5, 2 | 3, 2 |
+| ------------- |:-------------:|:-----:|:-----:|
+| 3, 2      | 9, 3          | 5, 2 | 7, 1|
+| 4, 5      | 2, 1         | 5, 4 | 5, 6 |
+| 2, 2 | 4, 0 | 5, 0 | 8, 1 |
+
+28. Compute the Nash equilibrium (if they exist) in pure strategies for the following game. 
+
+| 1, 1     |  2, 2           | 4, 1 |
+| ------------- |:-------------:|:-----:|
+| 2, 2      | 5, 5         | 3, 6 |
+| 1, 4     | 6, 3          | 0, 0 |
+
 <h3 id="resource">Resources</h3>
 
 *  my notes
