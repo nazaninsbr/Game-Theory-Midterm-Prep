@@ -264,3 +264,4 @@ rains with probability 1 - p
 * https://vknight.org/Year_3_game_theory_course/Exam/2013-2014.pdf
 * https://oyc.yale.edu/economics/econ-159 
 * http://lig-membres.imag.fr/loiseapa/courses/GameTheory/slides/ExerciseSheet2.pdf
+* https://ocw.mit.edu/courses/sloan-school-of-management/15-025-game-theory-for-strategic-advantage-spring-2015/assignments/MIT15_025S15_Problem1Sol.pdf
